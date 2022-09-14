@@ -192,6 +192,13 @@ button {
     flex-direction: column;
   }
 }
+.blogs{
+  color: white;
+  position: absolute;
+  top: 30px;
+  right: 40px;
+  font-size: 20px;
+}
 
 
 @media screen and (max-width: 580px) {
